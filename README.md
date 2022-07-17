@@ -1,3 +1,35 @@
+ # TextMaster
+ ![alt text](https://github.com/madhurpatle/textmaster/blob/main/Screenshots/Screenshot%202022-07-17%20at%208.28.33%20PM.JPG)
+ ![alt text](https://github.com/madhurpatle/textmaster/blob/main/Screenshots/Screenshot%202022-07-17%20at%208.34.30%20PM.JPG)
+ ![alt text](https://github.com/madhurpatle/textmaster/blob/main/Screenshots/Screenshot%202022-07-17%20at%208.33.26%20PM.JPG)
+ 
+
+
+# About
+TextMaster is simple reactJS application to convert or manipulate text according to our wish\
+It can \
+Convert text to uppercase\
+Convert text to lowercase\
+Copy text\
+Clear text\
+Remove extra space from given text
+
+TextMaster also provide text summary like\
+Word count\
+Character count\
+Time to read text in minutes
+
+TextMaster gives the preview of the given text
+
+It has 2 theme dark mode and light mode
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
